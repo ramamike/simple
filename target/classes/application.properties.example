@@ -1,0 +1,3 @@
+# DEV, PROD, LOCAL
+test.env=LOCAL
+test.local.port=8080
